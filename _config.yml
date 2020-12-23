@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xin Xiong"
+  name             : "Xin Xiong (熊昕)"
   avatar           : "belter.jpg"
-  bio              : "Multi-omics, machine learning and system biology"
+  bio              : "Data science and machine learning in biology"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :

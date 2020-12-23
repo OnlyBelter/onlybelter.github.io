@@ -13,7 +13,7 @@ I am also a graduate student majored in Computer Science at [Shanghai Jiao Tong 
 
 After I earned my BEng in Bioengineering from [Xi'an Polytechnic University](https://www.xpu.edu.cn/) 
 I worked at [Genminix](http://www.gminix.com/) (a biotech company) as a developer of new bioinformatic tools for the analysis biological data (Microarray and RNA-Seq). 
-I went to [ZhuLab](http://www.zhulab.cn) at [Interdisciplinary Research Center on Biology and Chemistry](http://ircbc.ac.cn/) as a Research Assistant in 2016 and I also started my study as a master student (part-time) at SJTU this year. 
+I went to [ZhuLab](http://www.zhulab.cn) at [Interdisciplinary Research Center on Biology and Chemistry](http://ircbc.ac.cn/) as a Research Assistant in 2016 and I also started my study as a master student (MEng) at SJTU this year. 
 Cooperating with other colleagues, 
 I published several papers ([Bioinformatics 2017](https://academic.oup.com/bioinformatics/article/33/14/2235/3066291);
                              [Analytical chemistry 2017](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b02625);
