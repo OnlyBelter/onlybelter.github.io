@@ -1,5 +1,5 @@
 ---
-title: "Word embedding-based representation of small molecules (Master thesis)"
+title: "Word embedding-based representation of small molecules (Master's thesis)"
 collection: projects
 type: "Project"
 permalink: /projects/2018-1
@@ -23,4 +23,4 @@ This article also compares different methods and hyper-parameters for training f
 
 Fig. project3: the workflow of tandemFragment algorithm
 
-github: 
+github: [https://github.com/OnlyBelter/fragParallel2vecX](https://github.com/OnlyBelter/fragParallel2vecX)

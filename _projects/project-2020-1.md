@@ -1,14 +1,14 @@
 ---
-title: "Relation between EMT and CD8+ T cells in tumor"
+title: "Relation between gene expression pattern and immune cell abundance in tumor"
 collection: projects
 type: "Project"
 permalink: /projects/2020-1
 venue: "SIAT"
 date: 2020-06-03
 location: "Shenzhen, China"
-excerpt: 'Since huge amount and structural diversity, the tasks about similarity co'
+excerpt: 'I joined in this project when I came to Li lab in SIAT ... '
 ---
 
-[More information here](http://example2.com)
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+I joined in this project when I came to Li lab in SIAT. 
+I cooperate with another colleague and mainly focus on the deconvolution of bulk cell RNA-Seq data from tumors 
+and try to figure out the relation between some specific gene expression programs (such as EMT) and immune cell abundance in tumor microenvironment.
