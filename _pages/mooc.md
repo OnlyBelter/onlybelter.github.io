@@ -27,7 +27,7 @@ Since then, I learned the following courses at Edx and Coursera.
 - [18.6501x: Fundamentals of Statistics](https://courses.edx.org/certificates/c39c7ebe31fd4d0490aed8b176dd5de8) (MITx at Edx, 2020)
 - [6.86x: Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/certificates/c64399d4c9aa43a69495832e1d62cf78) (MITx at Edx, 2020)
 
-*[MicroMasters Program in Statistics and Data Science](https://micromasters.mit.edu/ds/)* provided by MIT at Edx needs to finish 3 core courses, 1 elective course and a final capstone exam. I have finished 3 core courses and I am going to take the last course and final exam in the next round.
+*[MicroMasters Program in Statistics and Data Science](https://micromasters.mit.edu/ds/)* provided by MIT at Edx needs to finish 3 core courses, 1 elective course and a final capstone exam. I have finished 3 core courses ([record](https://credentials.edx.org/records/programs/shared/44e27b0247604104b1e99c5953f8111f/)) and I am going to take the last course and final exam in the next round.
 
 *18.6501x: Fundamentals of Statistics* is the hardest course I have ever taken since I became a student. But I really learned a lot under the outstanding teaching of Prof. Philippe Rigollet and the help of TAs.
 There was an very interesting episode on the discussion board during this course (please watch movie *[Good Will Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting)*):
