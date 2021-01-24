@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Research Assistant in the [Shenzhen Institute of Synthetic Biology](http://isynbio.siat.ac.cn/) at Shenzhen Institute of Advanced Technology, CAS in Shenzhen, China. 
-I am also a graduate student majored in Computer Science at [Shanghai Jiao Tong University, SJTU](https://www.sjtu.edu.cn/). My advisor is [Prof. Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai/index.html) and I am going to acquire my master degree in the spring of 2021. 
+Welcome! I am a Research Assistant in the [Shenzhen Institute of Synthetic Biology](http://isynbio.siat.ac.cn/) at Shenzhen Institute of Advanced Technology, CAS in Shenzhen, China since Jun 2020. 
+I am also a graduate student majored in Computer Technology at [Shanghai Jiao Tong University, SJTU](https://www.sjtu.edu.cn/) guided by [Prof. Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai/index.html). I passed dissertation defense on Jan 6, 2021.
 
 After I earned my BEng in Bioengineering from [Xi'an Polytechnic University](https://www.xpu.edu.cn/) 
 I worked at [Genminix](http://www.gminix.com/) (a biotech company) as a developer of new bioinformatic tools for the analysis biological data (Microarray and RNA-Seq). 
