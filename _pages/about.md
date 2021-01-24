@@ -21,4 +21,4 @@ I published several papers ([Bioinformatics 2017](https://academic.oup.com/bioin
                              [Nature communications 2020](https://www.nature.com/articles/s41467-020-18171-8)) related to the analysis methods of Bio-Mass Spectrometry data.
 I am one of the main contributors of the machine-learning-based prediction algorithm for the last article.
 
-When I am free, I like reading, watching movies and jogging. I also enjoy photograph.
+When I am free, I like reading, watching movies and jogging. I also enjoy photography.
