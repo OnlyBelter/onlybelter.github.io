@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Research Assistant in the [Shenzhen Institute of Synthetic Biology](http://isynbio.siat.ac.cn/) at Shenzhen Institute of Advanced Technology, CAS in Shenzhen, China since Jun 2020. 
-I am also a graduate student majored in Computer Technology at [Shanghai Jiao Tong University, SJTU](https://www.sjtu.edu.cn/) guided by [Prof. Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai/index.html). I passed dissertation defense on Jan 6, 2021.
+Welcome! I have been a Research Assistant in the [Shenzhen Institute of Synthetic Biology](http://isynbio.siat.ac.cn/) at Shenzhen Institute of Advanced Technology, CAS in Shenzhen, China since Jun 2020. 
+I am also a graduate student majored in Computer Technology at [Shanghai Jiao Tong University, SJTU](https://www.sjtu.edu.cn/) supervised by [Prof. Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai/index.html). I passed dissertation defense on Jan 6, 2021.
 
 After I earned my BEng in Bioengineering from [Xi'an Polytechnic University](https://www.xpu.edu.cn/) 
 I worked at [Genminix](http://www.gminix.com/) (a biotech company) as a developer of new bioinformatic tools for the analysis biological data (Microarray and RNA-Seq). 
@@ -21,4 +21,4 @@ I published several papers ([Bioinformatics 2017](https://academic.oup.com/bioin
                              [Nature communications 2020](https://www.nature.com/articles/s41467-020-18171-8)) related to the analysis methods of Bio-Mass Spectrometry data.
 I am one of the main contributors of the machine-learning-based prediction algorithm for the last article.
 
-When I am free, I like reading, watching movies and jogging. I also enjoy photography.
+In my spare time, I like reading, watching movies and jogging. I also enjoy photography.
