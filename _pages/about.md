@@ -22,3 +22,11 @@ I published several papers ([Bioinformatics 2017](https://academic.oup.com/bioin
 I am one of the main contributors of the machine-learning-based prediction algorithm for the last article.
 
 In my spare time, I like reading, watching movies and jogging. I also enjoy photography.
+
+[//]: # (I am currently a Ph.D. student in the Department of Physics at Hong Kong Baptist University under the mentorship of Dr. Liang Tian. My primary focus lies in developing novel methodologies and tools to analyze multi-omics data, with a particular emphasis on addressing pivotal questions within the domain of tumor biology.)
+
+[//]: # (Prior to commencing my Ph.D. studies, I served as a Research Assistant at the Shenzhen Institute of Synthetic Biology, where I had the invaluable opportunity to delve into the intricacies of the tumor microenvironment under the guidance of Dr. Xuefei Li. Additionally, I gained research experience as a Research Assistant at ZhuLab within the Interdisciplinary Research Center on Biology and Chemistry at Shanghai Jiao Tong University from 2016 to 2019.)
+
+[//]: # (I earned my Bachelor's degree &#40;BEng&#41; in Bioengineering from Xi’an Polytechnic University, and subsequently pursued my Master's degree &#40;MEng&#41; in computer science from Shanghai Jiao Tong University under the supervision of Prof. Hai Zhao.)
+
+[//]: # (Outside of research, I enjoy reading, watching movies, jogging, and photography.)
