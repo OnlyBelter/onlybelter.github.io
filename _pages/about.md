@@ -48,8 +48,9 @@ Outside of research, I enjoy reading, watching movies, jogging, and photography.
 
 ---
 
-|                                                                                         |                                                                                   |                                                                                               |
-|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
-|   <img width="300" alt="Xi'an" src="/images/myself/Just Graduated_2021.jpg">  @Xi'an    |       <img width="300" alt="SJTU" src="/images/myself/SJTU_2016.jpg"> @SJTU       |      <img width="300" alt="Hongkong" src="/images/myself/HongKong_2023.jpg"> @Hong Kong       |
-| <img width="300" alt="Mount Tai" src="/images/myself/Mount Tai_2012Oct.jpg"> @Mount Tai |    <img width="300" alt="Xiamen" src="/images/myself/Xiamen_2017.jpg"> @Xiamen    | <img width="300" alt="Tokyo" src="/images/myself/StatPhys28_2023_Tokyo.jpg"> StatPhys28@Tokyo |
-|       <img width="300" alt="Guilin" src="/images/myself/Guilin_2013.jpg"> @Guilin       | <img width="300" alt="Shenzhen" src="/images/myself/Shenzhen_2021.jpg"> @Shenzhen |     <img width="300" alt="Bangkok" src="/images/myself/Bangkok_2024Spring.jpg"> @Bangkok      |
+
+|                                                                                           |                                                                                                |                                                                                      |
+|:-----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+|    <img width="500" alt="Xi'an" src="/images/myself/Just Graduated_2010.jpg">  @Xi'an     |    <img width="500" alt="Mount Tai" src="/images/myself/Mount Tai_2012Oct.jpg"> @Mount Tai     |     <img width="300" alt="Guilin" src="/images/myself/Guilin_2013.jpg"> @Guilin      |
+|           <img width="500" alt="SJTU" src="/images/myself/SJTU_2016.jpg"> @SJTU           |          <img width="500" alt="Xiamen" src="/images/myself/Xiamen_2017.jpg"> @Xiamen           | <img width="500" alt="Shenzhen" src="/images/myself/Shenzhen_2021.jpg"> @Shenzhen    |
+| <img width="300" alt="Hongkong" src="/images/myself/HongKong_2023.jpg"> @Hong Kong        | <img width="300" alt="Tokyo" src="/images/myself/StatPhys28_2023_Tokyo.jpg"> StatPhys28@Tokyo  | <img width="300" alt="Bangkok" src="/images/myself/Bangkok_2024Spring.jpg"> @Bangkok |
