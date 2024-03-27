@@ -56,6 +56,7 @@ Outside of research, I enjoy reading, watching movies, jogging, and photography.
 | <img width="200" alt="Hongkong" src="/images/myself/HongKong_2023.jpg"><br>@Hong Kong | <img width="200" alt="Tokyo" src="/images/myself/StatPhys28_2023_Tokyo.jpg"><br>StatPhys28@Tokyo | <img width="200" alt="Bangkok" src="/images/myself/Bangkok_2024Spring.jpg"><br>@Bangkok |
 
 
+[//]: # ()
 [//]: # (| <img width="200" alt="Xi'an" src="/images/myself/Just Graduated_2010.jpg">  @Xi'an )
 
 [//]: # ()
