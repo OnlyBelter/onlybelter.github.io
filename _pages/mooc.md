@@ -31,6 +31,6 @@ I am also pursuing the *[MicroMasters Program in Statistics and Data Science](ht
 
 ### Course Reflection
 The course *18.6501x: Fundamentals of Statistics* has been the most challenging course I have taken since becoming a student. However, under the outstanding instruction of Prof. Philippe Rigollet and with the help of TAs, I learned a great deal.
-A memorable moment occurred on the discussion board during this course (reminiscent of o scene from the movie *[Good Will Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting)*):
+A memorable moment occurred on the discussion board during this course (reminiscent of a scene from the movie *[Good Will Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting)*):
 
 <img src="/images/edx_20210124153409.png" width="700">
