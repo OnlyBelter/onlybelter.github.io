@@ -37,7 +37,7 @@ Hi, I'm Xin Xiong.
 
 As a bioinformatics researcher, my fervor lies in unraveling the intricate mechanisms governing cellular operations through computational tools, such as machine learning, statistical physics, and bio-network analysis. My aim is to decode these complexities and attain a comprehensive understanding of their functions.
 
-I am currently a Ph.D. student in the Department of Physics at Hong Kong Baptist University under the mentorship of [Prof. Liang Tian](https://physics.hkbu.edu.hk/people/tian-liang), beginning in October 2021. My main area of research involves devising innovative methodologies and tools for analyzing multi-omics data, with a particular focus on addressing fundamental questions in the field of tumor biology.
+I am currently a Ph.D. student in the Department of Physics at [Hong Kong Baptist University](https://www.hkbu.edu.hk/) under the mentorship of [Prof. Liang Tian](https://physics.hkbu.edu.hk/people/tian-liang), beginning in October 2021. My main area of research involves devising innovative methodologies and tools for analyzing multi-omics data, with a particular focus on addressing fundamental questions in the field of tumor biology.
 
 Prior to starting my Ph.D. studies, I worked as a research assistant at the Shenzhen Institute of Synthetic Biology, where I had the invaluable opportunity to delve into the intricacies of the tumor microenvironment under the guidance of [Prof. Xuefei Li](https://isynbio.siat.ac.cn/Li(x)lab/view.php?id=48). 
 Additionally, I gained research experience as a Research Assistant at [ZhuLab](http://www.zhulab.cn) within the Interdisciplinary Research Center on Biology and Chemistry in Shanghai.
