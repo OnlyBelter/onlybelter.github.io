@@ -44,7 +44,7 @@ Additionally, I gained research experience as a Research Assistant at [ZhuLab](h
 
 I obtained my bachelor's degree (BEng) in Bioengineering from [Xi’an Polytechnic University](https://www.xpu.edu.cn/), and subsequently pursued my master's degree (MEng) in computer science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the guidance of [Prof. Hai Zhao](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=133).
 
-Outside of research, I enjoy reading, watching movies, jogging, and photography.
+Outside of research, I enjoy reading, watching movies, playing badminton, and practicing photography.
 
 
 ---
