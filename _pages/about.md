@@ -48,13 +48,11 @@ Outside of research, I enjoy reading, watching movies, playing badminton, and pr
 
 ## Current and Future Research Interests
 
----
 
 I have broad interests in bioinformatics, focusing on high-dimensional multi-omics data analysis, gene regulatory networks, and cell-cell interactions. I am passionate about expanding my knowledge in statistics, machine learning, and complex systems to enhance my research capabilities. In addition to developing methods, I am eager to apply these tools to address biological challenges in cancer biology, immunology, and neuroscience, with the goal of understanding the underlying biological mechanisms.
 
 ## Research Experience
 
----
 
 - **Transitioned from Bioinformatics Service to Research**: After gaining valuable bioinformatics experience (Perl/Python/R programming, microarray/sequencing data analysis, etc.) providing services to universities and hospitals for five years, I pursued my passion for independent research by joining ZhuLab as a research assistant.
 - **Developed Tools for LC-MS Data Analysis at ZhuLab**: During my three years at ZhuLab, I thrived in a research environment, developing tools for analyzing mass spectrometry data (LC-MS) of natural small molecules in the human body. This experience solidified my bioinformatics expertise.
