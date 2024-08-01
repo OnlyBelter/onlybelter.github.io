@@ -9,10 +9,9 @@ author_profile: true
   <u><a href="{{site.author.googlescholar}}">Google Scholar profile</a></u>
 {% endif %}
 
-## Publications
-$ denotes equal contributions
-
-^ denotes corresponding author(s)
+[//]: # ()
+[//]: # (## Publications)
+$ denotes equal contributions; ^ denotes corresponding author(s)
 
 - **Xiong, X.<sup>$</sup>**, Liu, Y.<sup>$</sup>, Pu, D., Yang, Z., Bi, Z., Tian, L.<sup>^</sup>, and Li, X.<sup>^</sup> (2023). DeSide: A unified deep learning approach for cellular decomposition of bulk tumors based on limited scRNA-seq data. _bioRxiv_, 2023.05.11.540466. 10.1101/2023.05.11.540466. [Manuscript](https://doi.org/10.1101/2023.05.11.540466), [Github](https://github.com/OnlyBelter/DeSide)
 
