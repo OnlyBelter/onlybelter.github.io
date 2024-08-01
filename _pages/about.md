@@ -44,7 +44,7 @@ Additionally, I gained research experience as a Research Assistant at [ZhuLab](h
 
 I obtained my bachelor's degree (BEng) in Bioengineering from [Xi’an Polytechnic University](https://www.xpu.edu.cn/), and subsequently pursued my master's degree (MEng) in computer science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the guidance of [Prof. Hai Zhao](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=133).
 
-Outside of research, I enjoy reading, watching movies, playing badminton, and practicing photography.
+Outside of research, I enjoy reading, watching movies, playing badminton, and practicing [photography](https://onlybelter.github.io/my-gallery/).
 
 ## Current and Future Research Interests
 
@@ -57,14 +57,6 @@ I have broad interests in bioinformatics, focusing on high-dimensional multi-omi
 - **Transitioned from Bioinformatics Service to Research**: After gaining valuable bioinformatics experience (Perl/Python/R programming, microarray/sequencing data analysis, etc.) providing services to universities and hospitals for five years, I pursued my passion for independent research by joining ZhuLab as a research assistant.
 - **Developed Tools for LC-MS Data Analysis at ZhuLab**: During my three years at ZhuLab, I thrived in a research environment, developing tools for analyzing mass spectrometry data (LC-MS) of natural small molecules in the human body. This experience solidified my bioinformatics expertise.
 - **Deconvoluted Cellular Components in the Tumor Microenvironment**: Eager to delve deeper into cancer biology, I joined Dr. Xuefei Li's group. There, I focused on developing a novel method for cellular component deconvolution within the tumor microenvironment (TME). This project formed the foundation for my Ph.D. research at HKBU. Github: [https://github.com/OnlyBelter/DeSide](https://github.com/OnlyBelter/DeSide).
-
----
-
-
-|                                                                                       |                                                                                                  |                                                                                         |
-|:-------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
-|       <img width="200" alt="SJTU" src="/images/myself/SJTU_2016.jpg"><br>@SJTU        |          <img width="200" alt="Xiamen" src="/images/myself/Xiamen_2017.jpg"><br>@Xiamen          |  <img width="200" alt="Shenzhen" src="/images/myself/Shenzhen_2021.jpg"><br>@Shenzhen   |
-| <img width="200" alt="Hongkong" src="/images/myself/HongKong_2023.jpg"><br>@Hong Kong | <img width="200" alt="Tokyo" src="/images/myself/StatPhys28_2023_Tokyo.jpg"><br>StatPhys28@Tokyo | <img width="200" alt="Bangkok" src="/images/myself/Bangkok_2024Spring.jpg"><br>@Bangkok |
 
 
 [//]: # ()

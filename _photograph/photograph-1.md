@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Stroll Through Life"
+excerpt: "It's me<br/><img src='/images/myself/Bangkok_2024Spring.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+It's me and my friends!
+
+---
+
+
+|                                                                                       |                                                                                                  |                                                                                         |
+|:-------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+|       <img width="200" alt="SJTU" src="/images/myself/SJTU_2016.jpg"><br>@SJTU        |          <img width="200" alt="Xiamen" src="/images/myself/Xiamen_2017.jpg"><br>@Xiamen          |  <img width="200" alt="Shenzhen" src="/images/myself/Shenzhen_2021.jpg"><br>@Shenzhen   |
+| <img width="200" alt="Hongkong" src="/images/myself/HongKong_2023.jpg"><br>@Hong Kong | <img width="200" alt="Tokyo" src="/images/myself/StatPhys28_2023_Tokyo.jpg"><br>StatPhys28@Tokyo | <img width="200" alt="Bangkok" src="/images/myself/Bangkok_2024Spring.jpg"><br>@Bangkok |
+
