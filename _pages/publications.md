@@ -13,7 +13,7 @@ author_profile: true
 [//]: # (## Publications)
 $ denotes equal contributions; ^ denotes corresponding author(s)
 
-- **Xiong, X.<sup>$</sup>**, Liu, Y.<sup>$</sup>, Pu, D., Yang, Z., Bi, Z., Tian, L.<sup>^</sup>, and Li, X.<sup>^</sup> (2023). DeSide: A unified deep learning approach for cellular decomposition of bulk tumors based on limited scRNA-seq data. _bioRxiv_, 2023.05.11.540466. 10.1101/2023.05.11.540466. [Manuscript](https://doi.org/10.1101/2023.05.11.540466), [Github](https://github.com/OnlyBelter/DeSide)
+- **Xiong, X.<sup>$</sup>**, Liu, Y.<sup>$</sup>, Pu, D., Yang, Z., Bi, Z., Tian, L.<sup>^</sup>, and Li, X.<sup>^</sup> (2024). DeSide: A unified deep learning approach for cellular deconvolution of tumor microenvironment. _Proc. Natl. Acad. Sci. U. S. A._, 121, e2407096121. [Manuscript](https://www.pnas.org/doi/10.1073/pnas.2407096121), [Github](https://github.com/OnlyBelter/DeSide)
 
 - Zhou, Z., Luo, M., Chen, X., Yin, Y., **Xiong, X.**, Wang, R., and Zhu, Z.-J<sup>^</sup>. (2020). Ion mobility collision cross-section atlas for known and unknown metabolite annotation in untargeted metabolomics. _Nat. Commun._ 11, 4334. [Article](https://doi.org/10.1038/s41467-020-18171-8)
 
