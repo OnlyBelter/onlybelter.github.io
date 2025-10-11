@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xin Xiong"
 title_separator          : "-"
 name                     : &name "Xin Xiong"
-description              : &description "A PhD student @ HKBU, focus on multi-omics, machine learning and big data"
+description              : &description "A PostDoc @ HKBU, focus on bioinformatics, machine learning and systems biology."
 url                      : https://onlybelter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "onlybelter/onlybelter.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xin Xiong (熊昕)"
   avatar           : "Jun2025@UChicago_smaller.JPG"
-  bio              : "Bioinformatics, machine learning, system biology"
+  bio              : "Bioinformatics, machine learning, systems biology"
   location         : "Hong Kong, China"
   employer         :
   pubmed           :
