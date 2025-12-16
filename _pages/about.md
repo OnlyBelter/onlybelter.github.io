@@ -44,7 +44,7 @@ I completed my PhD in the Department of Physics at HKBU under the mentorship of 
 Prior to starting my Ph.D. studies, I worked as a research assistant at the Shenzhen Institute of Synthetic Biology, where I had the invaluable opportunity to delve into the intricacies of the tumor microenvironment under the guidance of [Prof. Xuefei Li](https://isynbio.siat.ac.cn/Li(x)lab/view.php?id=48). 
 Additionally, I gained research experience as a Research Assistant at [ZhuLab](http://www.zhulab.cn) within the Interdisciplinary Research Center on Biology and Chemistry in Shanghai.
 
-I obtained my bachelor's degree (BEng) in Bioengineering from [Xi’an Polytechnic University](https://www.xpu.edu.cn/), and subsequently pursued my master's degree (MEng) in computer science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the guidance of [Prof. Hai Zhao](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=133).
+I obtained my bachelor's degree (BEng) in Bioengineering from [Xi’an Polytechnic University](https://www.xpu.edu.cn/), and subsequently pursued my master's degree (MEng) in computer science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the guidance of [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
 
 Outside of research, I enjoy reading, watching movies, playing badminton, and practicing [photography](https://www.flickr.com/photos/200188531@N06/albums).
 
