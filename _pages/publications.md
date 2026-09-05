@@ -9,9 +9,19 @@ author_profile: true
   <u><a href="{{site.author.googlescholar}}">Google Scholar profile</a></u>
 {% endif %}
 
-[//]: # ()
-[//]: # (## Publications)
+This page lists selected publications and a full publication list. For the most up-to-date record, please also see my Google Scholar profile.
+
 $ denotes equal contributions; ^ denotes corresponding author(s)
+
+## Selected Publications
+
+- **Xiong, X.<sup>$</sup>**, Liu, Y.<sup>$</sup>, Pu, D., Yang, Z., Bi, Z., Tian, L.<sup>^</sup>, and Li, X.<sup>^</sup> (2024). DeSide: A unified deep learning approach for cellular deconvolution of tumor microenvironment. _Proc. Natl. Acad. Sci. U. S. A._, 121, e2407096121. [Article](https://www.pnas.org/doi/10.1073/pnas.2407096121), [GitHub](https://github.com/OnlyBelter/DeSide)
+
+- Zhou, Z., Luo, M., Chen, X., Yin, Y., **Xiong, X.**, Wang, R., and Zhu, Z.-J<sup>^</sup>. (2020). Ion mobility collision cross-section atlas for known and unknown metabolite annotation in untargeted metabolomics. _Nat. Commun._ 11, 4334. [Article](https://doi.org/10.1038/s41467-020-18171-8)
+
+- Zhou, Z., **Xiong, X.**, and Zhu, Z.-J.<sup>^</sup> (2017). MetCCS predictor: a web server for predicting collision cross-section values of metabolites in ion mobility-mass spectrometry based metabolomics. _Bioinformatics_ 33, 2235–2237. [Article](https://doi.org/10.1093/bioinformatics/btx140)
+
+## Full Publication List
 
 - **Xiong, X.<sup>$</sup>**, Liu, Y.<sup>$</sup>, Pu, D., Yang, Z., Bi, Z., Tian, L.<sup>^</sup>, and Li, X.<sup>^</sup> (2024). DeSide: A unified deep learning approach for cellular deconvolution of tumor microenvironment. _Proc. Natl. Acad. Sci. U. S. A._, 121, e2407096121. [Article](https://www.pnas.org/doi/10.1073/pnas.2407096121), [Github](https://github.com/OnlyBelter/DeSide)
 
@@ -24,4 +34,3 @@ $ denotes equal contributions; ^ denotes corresponding author(s)
 - Zhou, Z., Tu, J., **Xiong, X.**, Shen, X., and Zhu, Z.J.<sup>^</sup> (2017). LipidCCS: prediction of collision cross-section values for lipids with high precision to support ion mobility–mass spectrometry-based lipidomics. _Anal. Chem._ 89, 9559–9566. [Article](https://doi.org/10.1021/acs.analchem.7b02625)
 
 - Zhou, Z., **Xiong, X.**, and Zhu, Z.-J.<sup>^</sup> (2017). MetCCS predictor: a web server for predicting collision cross-section values of metabolites in ion mobility-mass spectrometry based metabolomics. _Bioinformatics_ 33, 2235–2237. [Article](https://doi.org/10.1093/bioinformatics/btx140)
-
