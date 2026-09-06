@@ -16,6 +16,19 @@ I am a Postdoctoral Research Fellow at [Hong Kong Baptist University](https://ww
 
 I work at the interface of computational biology, machine learning, and systems biology. I am interested in integrating high-dimensional multi-omics data to study cellular organization, tumor-immune interactions, gene regulation, and other questions where systems-level structure matters. Methodologically, I am especially interested in interpretable modeling, statistical learning, and tool development that helps bridge biological questions with quantitative analysis.
 
+## News
+
+{% assign news_posts = site.posts | where_exp: "post", "post.tags contains 'news'" %}
+{% if news_posts.size > 0 %}
+<ul>
+{% for post in news_posts limit: 3 %}
+  <li><strong>{{ post.date | date: "%b %d, %Y" }}</strong> - <strong>{{ post.title }}</strong>: {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+{% endfor %}
+</ul>
+{% else %}
+No news yet. Please check back later.
+{% endif %}
+
 ## Selected Work
 
 - **DeSide**: A unified deep learning framework for cellular deconvolution in the tumor microenvironment, designed to improve the interpretation of bulk transcriptomic data in cancer studies. [Article](https://www.pnas.org/doi/10.1073/pnas.2407096121), [GitHub](https://github.com/OnlyBelter/DeSide)
