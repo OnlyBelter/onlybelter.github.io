@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Xin Xiong, postdoctoral researcher at HKBU, develops computational methods to study cellular heterogeneity and tumor-immune interactions."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,11 +10,27 @@ redirect_from:
 
 Hi, I'm Xin Xiong.
 
-I am a Postdoctoral Research Fellow at [Hong Kong Baptist University](https://www.hkbu.edu.hk/). I develop machine learning and statistical methods for multi-omics data analysis, with a focus on the tumor microenvironment, cancer systems biology, and immunology. My work aims to use computational models to uncover systems-level organization and interactions in complex biological tissues.
+I am a Postdoctoral Research Fellow at [Hong Kong Baptist University](https://www.hkbu.edu.hk/).
+I develop machine learning and statistical methods to study cellular
+heterogeneity and tumor-immune interactions from transcriptomic and other omics data.
 
 ## Research Focus
 
-I work at the interface of computational biology, machine learning, and systems biology. I am interested in integrating high-dimensional multi-omics data to study cellular organization, tumor-immune interactions, gene regulation, and other questions where systems-level structure matters. Methodologically, I am especially interested in interpretable modeling, statistical learning, and tool development that helps bridge biological questions with quantitative analysis.
+My research addresses a central challenge in cancer biology: bulk tumor RNA
+sequencing combines signals from different cell types into a single expression
+profile, obscuring cellular heterogeneity. Computational deconvolution provides
+a way to infer cellular composition from these mixed signals.
+
+Building on my doctoral work on DeSide, I am developing a generative model based
+on a variational autoencoder (VAE) to jointly infer cell-type proportions and
+reconstruct cell-type-specific gene-expression profiles from bulk solid-tumor
+transcriptomic data, using single-cell RNA-seq data as a reference.
+
+My broader interests include biological foundation models, dynamical systems,
+and spatial transcriptomics. I am interested in how these approaches, together
+with multi-omics integration, can help us understand gene regulation,
+tumor-immune interactions, and the spatial and temporal organization of tissues.
+Across these directions, I emphasize interpretable models and systems-level understanding.
 
 ## News
 
@@ -37,10 +53,16 @@ No news yet. Please check back later.
 
 ## Brief Background
 
-Before my current postdoctoral work, I completed my PhD in the Department of Physics at HKBU under the mentorship of [Prof. Liang Tian](https://physics.hkbu.edu.hk/people/tian-liang), graduating in September 2025. During my doctoral training, I focused on machine learning and statistical approaches for multi-omics data analysis, with an emphasis on systems-level understanding rather than reductionist descriptions.
+I completed my PhD in the Department of Physics at HKBU in September 2025 under
+the mentorship of [Prof. Liang Tian](https://physics.hkbu.edu.hk/people/tian-liang).
+My doctoral research led to DeSide, a deep learning framework for cellular deconvolution of the tumor microenvironment.
 
-Earlier, I worked as a research assistant at the Shenzhen Institute of Synthetic Biology under the guidance of [Prof. Xuefei Li](https://isynbio.siat.ac.cn/Li(x)lab/view.php?id=48), where I studied the tumor microenvironment and developed a cellular deconvolution method that later became DeSide. I also worked at [ZhuLab](http://www.zhulab.cn) within the Interdisciplinary Research Center on Biology and Chemistry in Shanghai, where I contributed to computational tools for metabolomics and mass spectrometry data analysis.
-
+Earlier, I worked as a research assistant at the Shenzhen Institute of Synthetic Biology
+under the guidance of [Prof. Xuefei Li](https://isynbio.siat.ac.cn/Li(x)lab/view.php?id=48),
+where I began studying the tumor microenvironment and cellular deconvolution.
+Before that, I worked at [ZhuLab](http://www.zhulab.cn) within the Interdisciplinary
+Research Center on Biology and Chemistry in Shanghai, contributing to
+computational tools for metabolomics and mass spectrometry data analysis.
 I received my bachelor's degree (BEng) in Bioengineering from [Xi’an Polytechnic University](https://www.xpu.edu.cn/) and my master's degree (MEng) in Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
 
 Outside of research, I enjoy reading, watching movies, playing badminton, and practicing [photography](https://www.flickr.com/photos/200188531@N06/albums).
